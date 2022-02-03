@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ESPkronos
-- 👀 I’m know to use HMTL, CSS e Construct.
+- 👀 I’m know to use HMTL, CSS and Construct.
 - 🌱 I’m currently learning Python, Javascript and Kotlin.
 - 📫 How to reach me? WhatsApp: +55 11 932264811 or Discord: memeuzito#0956
 
